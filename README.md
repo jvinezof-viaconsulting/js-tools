@@ -7,7 +7,7 @@ A TypeScript library with useful tools, such as a CPF generator, currency conver
 Use npm or another installer to install the library:
 
 ```bash
-npm install js-tools
+npm install joaovinezof-js-tools
 ```
 
 ## 🚀 Features
@@ -18,7 +18,7 @@ Generates a valid CPF with or without formatting.
 
 **Import**
 ```ts
-import { generateCpf } from 'my-js-tools';
+import { generateCpf } from 'joaovinezof-js-tools';
 ```
 
 **Use**
